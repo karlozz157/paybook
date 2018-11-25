@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Prexto\\": "src/"
+        }
+    },
+    "require": {
+        "paybook/paybook": "dev-master",
+        "slim/slim": "^3.0"
+    }
+}
